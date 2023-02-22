@@ -183,6 +183,8 @@ to explain why the statistician performed each step to a labmate/your principal 
 
 Contributors
 ====================
+**This is my edition done on 22-02-23**
+**Sandhya**
 
 * [Jeff Leek](http://biostat.jhsph.edu/~jleek/) - Wrote the initial version.
 * [L. Collado-Torres](http://bit.ly/LColladoTorres) - Fixed typos, added links.
